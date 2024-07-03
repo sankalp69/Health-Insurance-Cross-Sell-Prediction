@@ -3,8 +3,6 @@
 <h1 align="center"> Health Insurance Cross Sell Prediction
  </h1>
 
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
-
 
 ![image](https://www.recruiter.com//recruiting/wp-content/uploads/2019/02/blocks.png)
 
