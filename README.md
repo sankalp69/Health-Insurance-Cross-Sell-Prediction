@@ -121,6 +121,6 @@
 
 * which we evaluated using the different evaluation metrics.
 
-* Comparing the ROC curve we concluded that the Random Forest model performs better..
+* Comparing the ROC curve we concluded that the Logistic regression  model performs better..
 
 
