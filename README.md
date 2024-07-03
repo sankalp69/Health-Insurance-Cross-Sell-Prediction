@@ -11,19 +11,12 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :floppy_disk: Table of Content</h2>
-
-  * [Introduction](#Introduction)
-  * [Abstract](#Abstract)
-  * [Dataset Information](#dataset-information)
-  * [Problem Statement](#Problem-Statement)
-  * [Conclusion](#Conclusion)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<h2> :book: Introduction:</h2>
+
 
 
 
